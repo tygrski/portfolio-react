@@ -47,7 +47,7 @@ h1 {
 /* end of header */
 
 /* hero section */
-.hero-section {
+/* .hero-section {
   display: flex;
 }
 
@@ -95,11 +95,11 @@ h1 {
 .job-title {
   position: absolute;
   top: 380px;
-}
+} */
 
 /* main section */
 
-.main-content { 
+/* .main-content { 
    margin-bottom: 0px; 
    margin: 0 30px; 
 } 
@@ -220,11 +220,11 @@ opacity: 1.0;
 }
 .github {
   padding-top: 15px;
-}
+} */
 
 
 /* footer */
-footer {
+/* footer {
 text-align: center;
 font-size: 10px;
 color:  rgb(218, 218, 240);
@@ -234,7 +234,7 @@ left: 0;
 bottom: 0;
 width: 100%;
 
-}
+} */
 
 /* MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER */
 /* @media screen and (max-width: 980px) {
