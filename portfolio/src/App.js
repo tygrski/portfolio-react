@@ -5,13 +5,17 @@ import React from 'react';
 // import logo from './logo.svg';
 // import './App.css';
 // import './index.css'
-import Nav from './components/Nav/index'
+// import Nav from './components/Nav/index'
 import Header from './components/Header';
+import Footer from './components/Footer'
+import About from './components/About'
 
 function App() {
   return (
     <div > 
       <Header /> 
+      <About />
+      <Footer />
       </div>
   );
 }
