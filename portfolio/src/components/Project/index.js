@@ -10,7 +10,7 @@ function Projects () {
                 </div>
             </a>
         </div>
-        
+       
     )
 };
 
