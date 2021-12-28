@@ -1,5 +1,5 @@
 
-import React from 'react';
+import React, {useState }from 'react';
 // import 'materialize-css';
 // import { Button, Card, Row, Col } from 'react-materialize';
 // import logo from './logo.svg';
@@ -11,9 +11,12 @@ import Footer from './components/Footer'
 import About from './components/About'
 
 function App() {
+ 
   return (
     <div > 
-      <Header /> 
+      <Header 
+     
+      ></Header>
       <About />
       <Footer />
       </div>

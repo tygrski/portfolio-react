@@ -1,14 +1,15 @@
-import React from "react";
+import React, { useState } from "react";
 
-function Nav() {
+function Nav(props) {
+ 
     return(
     <nav>
         <ul>
             <li>
-               <a  href="#about-me"><span className= "navlnk">About Me</span></a>
+               <a  href="#about-me"  ><span className= "navlnk">About Me</span></a>
            </li>
             <li>
-               <a href="#my-work"><span className="navlnk">Projects</span></a>
+               <a href="#Projects"><span className="navlnk">Projects</span></a>
            </li>
            <li>
            <a href= "#my-resume"><span className="navlnk">Resume</span></a>
@@ -19,6 +20,6 @@ function Nav() {
         </ul>
    </nav>
     )
-}
+ }
 
 export default Nav;
