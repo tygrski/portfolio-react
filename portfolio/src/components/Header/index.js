@@ -18,7 +18,7 @@ function Header(props) {
         <li className="tab-category" key={navTabs}>
           <a
           href ={'#' + navTabs.toLowerCase()}
-          className={props.currentPage === navtab ? 'nav-link active' : 'nav-link'}>
+          className={props.currentPage === navTabs ? 'nav-link active' : 'nav-link'}>
             {navTabs}
           </a>
         </li>
