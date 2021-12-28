@@ -1,25 +1,8 @@
 import React from "react";
 import Nav from "../Nav";
 
-function Header() {
-  const navTabs = [
-    {
-      id:1,
-      name: 'About Me'
-    },
-    {
-      id:2,
-      name:'Projects'
-    },
-    {
-      id:3,
-      name: "Resume"
-    },
-    {
-      id:3,
-      name:'Contact'
-    }
-  ]
+function Header(props) {
+  const navTabs = [ 'About Me','Projects', "Resume", 'Contact']
   
   
   return(
@@ -30,7 +13,17 @@ function Header() {
         <h1>Travis Tybor 
          </h1>
          </div>
-         <Nav navTabs={ navTabs } />
+         <ul className="nav-tabs">
+      {navTabs.map(navTabs => (
+        <li className="tab-category" key={navTabs}>
+          <a
+          href ={'#' + navTabs.toLocaleLowerCase()}
+          className={props.currentPage === tab ? 'nav-link active' : 'nav-link'}>
+            {navTabs}
+          </a>
+        </li>
+      ))}
+         </ul>
     </header>
   )
 }
