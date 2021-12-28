@@ -12,6 +12,7 @@ import About from './components/About'
 import Project from './components/Project'
 import Contact from './components/Contact'
 import Resume from './components/Resume'
+import {Route, Routes} from "react-router-dom";
 
 
 
@@ -25,7 +26,12 @@ function App() {
       <Header >
       </Header>
       <Nav  />
-      
+      <div>
+    <Routes>
+        <Route path='/about-me' element={<About />} />
+         <Route path='/projects' element={<Project />} />
+         </Routes>
+       </div>
     <Footer />
       </div>
   );
