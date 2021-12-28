@@ -17,8 +17,8 @@ function Header(props) {
       {navTabs.map(navTabs => (
         <li className="tab-category" key={navTabs}>
           <a
-          href ={'#' + navTabs.toLocaleLowerCase()}
-          className={props.currentPage === tab ? 'nav-link active' : 'nav-link'}>
+          href ={'#' + navTabs.toLowerCase()}
+          className={props.currentPage === navtab ? 'nav-link active' : 'nav-link'}>
             {navTabs}
           </a>
         </li>
