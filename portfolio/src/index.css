@@ -52,6 +52,10 @@ a:hover
   background-color: rgb(255, 255, 0);
 }
 
+.tab-css{
+  color: rgb(114, 146, 204);
+}
+
 /* ======================================= */
 .title {
   color: rgb(90, 126, 194);
@@ -60,8 +64,8 @@ a:hover
 }
 
 .title-info {
-    color: rgb(82, 114, 175);
-    font-size: 40px;
+    color: rgb(83, 122, 194);
+    font-size: 50px;
     font-weight: bold;
    
 }
@@ -261,6 +265,11 @@ position: fixed;
 left: 0;
 bottom: 0;
 width: 100%;
+
+}
+
+.footer-links{
+justify-content: space-between;
 
 }
 
