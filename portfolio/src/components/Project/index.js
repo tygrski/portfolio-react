@@ -9,6 +9,11 @@ function Projects () {
                     <h2>Pick-A-Kick</h2>
                 </div>
             </a>
+            <a href="https://tygrski.github.io/run-buddy/" target="_blank" alt="image of pick-a-kick page">
+                <div>
+                    <h2>Run Buddy</h2>
+                </div>
+            </a>
         </div>
        
     )

@@ -4,7 +4,7 @@ function Resume() {
   return (
     <div>
       <h1>Resume</h1>
-      <a href="https://drive.google.com/file/d/1j9ApKxir8TDPGIvZW5uz-woL_oLSsuNs/view?usp=sharing"> </a>
+      <a href="https://drive.google.com/file/d/1j9ApKxir8TDPGIvZW5uz-woL_oLSsuNs/view?usp=sharing">Click Here to Download PDF</a>
       <h2> My skills include :</h2>
       <ul>
         <li> HTML 5</li>

@@ -22,18 +22,21 @@ function App() {
  
   return (
     <div > 
-      "HERE!!!!"
       <Header >
       </Header>
-      <Nav  />
+     
       <div>
     <Routes>
-        <Route path='/about-me' element={<About />} />
+         <Route path='/about-me' element={<About />} />
          <Route path='/projects' element={<Project />} />
-         </Routes>
+         <Route path='/resume' element={<Resume />} />
+         <Route path='/contact' element={<Contact />} />
+      </Routes>
        </div>
+       
     <Footer />
       </div>
+    
   );
 }
 

@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 
+
 function Nav(props) {
  
     return(
@@ -10,13 +11,13 @@ function Nav(props) {
                <Link to="/about-me">About Me</Link>
            </li>
             <li>
-            <Link to="/projects">Projects</Link>
+             <Link to="/projects">Projects</Link>
            </li>
            <li>
-           <Link to="/resume">Resume</Link>
+             <Link to="/resume">Resume</Link>
             </li>
             <li>
-            <Link to="/contact">Contact</Link>
+                <Link to="/contact">Contact</Link>
             </li>
         </ul>
    </nav>
