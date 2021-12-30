@@ -4,7 +4,7 @@
 
 
 ###  User Instructuion, runt the following commands in your terminal
--npm i
+-npm i<br/>
 -npm start
 
 
