@@ -4,11 +4,14 @@
 
 
 ###  User Install and Instructuion
-- clone the repo to your computer by clicking [here](https://github.com/tygrski/portfolio-react)
+- clone the repo to your computer by clicking [here](https://github.com/tygrski/portfolio-react)<br/>
 -the following commands in your terminal<br/>
 -npm i<br/>
 -npm start
 
-### Built with Reacts JS, HTML and CSS
+### Built with: <br/>
+[✔]Reacts JS<br/>
+HTML<br/>
+CSS<br/>
 
 
