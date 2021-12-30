@@ -11,6 +11,9 @@ function About() {
       />
       <h2 className="title-info">Full Stack Developer</h2>
       <p className="paragraph-descrption">
+        Specializing in the MERN Stack
+        <br/>
+        <br/>
         And Diagnostic Medical Sonographer
         <br />
         <br />

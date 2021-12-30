@@ -79,7 +79,7 @@ a:hover
 
 /* end of header */
 
-
+/* projects */
 .my-info-container {
   display: flex;
   justify-content: space-between;
@@ -120,7 +120,7 @@ a:hover
 
 .soccer-finder {
   background-image: url("../../portfolio/src/assets/projects/pick-a-kick.jpg");
-  width: 350px;
+  width: 250px;
   height: 200px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -132,9 +132,9 @@ a:hover
   opacity: 1.0;
 }
 
-/* .runbuddy {
-  background-image: url("../images/RB-hero.jpg");
-  width: 200px;
+.beer {
+  background-image: url("../../portfolio/src/assets/projects/beer-belly.jpg");
+  width: 250px;
   height: 200px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -142,41 +142,76 @@ a:hover
   border-radius: 10%;
   opacity: 0.9;
 }
-.runbuddy:hover {
+.beer:hover {
   opacity: 1.0;
 }
-.runbuddy h3 {
+.beer h3 {
   text-decoration: none;
-} */
+}
 
-/* .horiseon {
-  background-image: url("../images/Horiseon.jpg");
-  width: 100%;
-  height: 120px;
+.budget {
+  background-image: url("../src/assets/projects/Budget\ Tracker.jpg");
+  width: 250px;
+  height: 200px;
   background-repeat: no-repeat;
   background-size: cover;
   border: solid cornflowerblue 8px;
   border-radius: 10%;
   opacity: 0.9;
 }
-.horiseon:hover {
+.budget:hover {
 opacity: 1.0;
 }
 
-.portfolio {
-  background-image: url("../images/portfolio.png");
-  width: 100%;
-  height: 120px;
+ .weather {
+  background-image: url("../src/assets/projects/weather-dashboard.jpg");
+  width: 250px;
+  height: 200px;
   background-repeat: no-repeat;
   background-size: cover;
   border: solid cornflowerblue 8px;
   border-radius: 10%;
   opacity: 0.8;
 }
-.portfolio:hover {
+.weather:hover {
   opacity: 1.0;
 }
-.workrb {
+
+.password {
+  background-image: url("../src/assets/projects/password-gen.jpg");
+  width: 250px;
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border: solid cornflowerblue 8px;
+  border-radius: 10%;
+  opacity: 0.8;
+}
+.password:hover {
+  opacity: 1.0;
+}
+
+.work-task-list {
+  background-image: url("../src/assets/projects/work-task-list.jpg");
+  width: 250px;
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border: solid cornflowerblue 8px;
+  border-radius: 10%;
+  opacity: 0.8;
+}
+.work-task-list:hover {
+  opacity: 1.0;
+}
+
+
+
+
+
+
+
+/* .workrb {
   color: rgb(246, 250, 16);
   font-size: 25px;
   font-weight: bold;
@@ -192,11 +227,14 @@ opacity: 1.0;
   font-weight: bold;
 } */
 
+/* end projects */
 
-.resume-list{
+/* resume */
+  .resume-list{
   font-size: large;
-}
+}  
 
+/* end resume */
 
 /* footer */
 footer {
