@@ -6,10 +6,25 @@ function Projects() {
       <h1>Portfolio</h1>
 
       <section class="main-content">
-        <div>
+      <h2 class="section-me">Projects</h2>
           <div class="my-info-container" id="my-work">
-            <h2 class="section-me">Projects</h2>
+            
+
             <a
+              className="portfolio-link"
+              href="https://github.com/ggamb/Beer-belly-developers-project-2/"
+              target="_blank"
+              alt="run-buddy waebpage image"
+            >
+              <div class="beer">
+                <h3>
+                  <span class="workhr">Beer Belly</span>
+                </h3>
+              </div>
+            </a>
+
+            <a
+              className="portfolio-link"
               href="https://tygrski.github.io/soccer-finder/"
               target="_blank"
               alt="image of m pick-a-kick webpage"
@@ -19,19 +34,10 @@ function Projects() {
               </div>
             </a>
 
-            <a
-              href="https://github.com/ggamb/Beer-belly-developers-project-2/"
-              target="_blank"
-              alt="run-buddy waebpage image"
-            >
-              <div class="beer">
-                <h3>
-                  <span class="workrb">Beer Belly</span>
-                </h3>
-              </div>
-            </a>
+           
 
             <a
+              className="portfolio-link"
               href="https://github.com/tygrski/budget-tracker-PWA/"
               target="_blank"
               alt="budget-tracker image"
@@ -44,6 +50,7 @@ function Projects() {
             </a>
 
             <a
+              className="portfolio-link"
               href="https://github.com/tygrski/weatherDashboard/"
               target="_blank"
               alt="weather-dashboard"
@@ -55,21 +62,8 @@ function Projects() {
               </div>
             </a>
 
-            
-
-            {/* this one is nopt displaying outside nav bar */}
             <a
-              href="https://github.com/tygrski/budget-tracker-PWA/"
-              target="_blank"
-              alt="password-generator wabpage image"
-            >
-              <div class="password">
-                <h3>
-                  <span class="workhr">Password Generator</span>
-                </h3>
-              </div>
-            </a>
-            <a
+              className="portfolio-link"
               href="https://github.com/tygrski/Work-Task-List/"
               target="_blank"
               alt="Work-Task-List wabpage image"
@@ -80,8 +74,23 @@ function Projects() {
                 </h3>
               </div>
             </a>
+
+            {/* this one is nopt displaying outside nav bar */}
+            <a
+              className="portfolio-link"
+              href="https://github.com/tygrski/budget-tracker-PWA/"
+              target="_blank"
+              alt="password-generator wabpage image"
+            >
+              <div class="password">
+                <h3>
+                  <span class="workhr">Password Generator</span>
+                </h3>
+              </div>
+            </a>
+           
           </div>
-        </div>
+       
       </section>
     </div>
   );

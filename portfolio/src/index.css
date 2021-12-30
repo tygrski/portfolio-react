@@ -52,6 +52,8 @@ a:hover
   background-color: rgb(255, 255, 0);
 }
 
+
+
 .tab-css{
   color: rgb(114, 146, 204);
 }
@@ -83,6 +85,7 @@ a:hover
 .my-info-container {
   display: flex;
   justify-content: space-between;
+  flex-wrap: wrap;
   padding-bottom: 30px;
   padding-right: 40px;
   
@@ -96,9 +99,7 @@ a:hover
   padding-right: 200px;
   padding-left: 20px;
   font-size: 40px;
- 
-
-}
+ }
 
 .my-info-container >h2 {
   flex: 0 0 15%;
@@ -207,7 +208,9 @@ opacity: 1.0;
 
 
 
-
+.portfolio-link:hover{
+  background-color: cornflowerblue;
+}
 
 
 
@@ -215,7 +218,7 @@ opacity: 1.0;
   color: rgb(246, 250, 16);
   font-size: 25px;
   font-weight: bold;
-}
+} */
 .workhr {
   color: rgb(12, 42, 46);
   font-size: 25px;
@@ -225,7 +228,7 @@ opacity: 1.0;
   color: rgb(18, 248, 198);
   font-size: 25px;
   font-weight: bold;
-} */
+}
 
 /* end projects */
 
