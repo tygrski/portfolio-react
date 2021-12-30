@@ -1,4 +1,4 @@
-# Travis Tybor Portfolio
+# Travis Tybor's Portfolio
 
 ## I created this webpage to Llist my Skills, Projects, Contact form and a little about myself
 ![portfilio-pic](https://user-images.githubusercontent.com/77369211/147782562-4e25a376-c167-4625-85cd-024d07f35deb.jpg)
