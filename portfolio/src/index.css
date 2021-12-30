@@ -118,8 +118,8 @@ a:hover
 
 
 
-/* .soccer-finder {
-  background-image: url("../images/Screenshot\ \(253\).png");
+.soccer-finder {
+  background-image: url("../../portfolio/src/assets/projects/pick-a-kick.jpg");
   width: 350px;
   height: 200px;
   background-repeat: no-repeat;
@@ -130,7 +130,7 @@ a:hover
 }
 .soccer-finder:hover {
   opacity: 1.0;
-} */
+}
 
 /* .runbuddy {
   background-image: url("../images/RB-hero.jpg");
