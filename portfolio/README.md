@@ -5,7 +5,7 @@
 
 ###  User Install and Instructuion
 - clone the repo to your computer by clicking [here](https://github.com/tygrski/portfolio-react)<br/>
--the following commands in your terminal<br/>
+-run the following commands in your terminal<br/>
 -npm i<br/>
 -npm start
 
