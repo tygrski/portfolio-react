@@ -12,7 +12,7 @@ function Nav(props) {
         </li>
         <li>
           <Link to="/projects" className="tab-css">
-            Projects
+            Portfolio
           </Link>
         </li>
         <li>
