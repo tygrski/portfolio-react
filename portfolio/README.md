@@ -10,8 +10,8 @@
 -npm start
 
 ### Built with: <br/>
-[✔]Reacts JS<br/>
-HTML<br/>
-CSS<br/>
+✔ Reacts JS<br/>
+✔️ HTML<br/>
+✔️ CSS
 
 
