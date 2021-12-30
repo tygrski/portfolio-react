@@ -35,7 +35,7 @@ nav a {
 
 header nav ul li::before
 {
-  color: beige;
+  color: rgb(255, 255, 0);
 }
 
 span  {
@@ -90,10 +90,6 @@ a:hover
   padding-right: 40px;
   
 } 
-.main-content { 
-  margin-bottom: 0px; 
-  margin: 0 30px; 
-} 
 
 .my-info-container p {
   padding-right: 200px;
@@ -116,7 +112,9 @@ a:hover
   text-decoration: none;
 }
 
-
+.section-project{
+  font-size: 40px;
+}
 
 
 .soccer-finder {
@@ -206,7 +204,9 @@ opacity: 1.0;
   opacity: 1.0;
 }
 
-
+.portfolio-link{
+  margin-top: 10px;
+}
 
 .portfolio-link:hover{
   background-color: cornflowerblue;
@@ -233,8 +233,19 @@ opacity: 1.0;
 /* end projects */
 
 /* resume */
-  .resume-list{
-  font-size: large;
+ 
+
+.resume-link{
+  font-size: 25 px;
+  padding: 5px;
+}
+.skills-title{
+  font-size: 40px;
+  padding-left: 20px;
+}
+.resume-list{
+  font-size: 30px;
+
 }  
 
 /* end resume */
