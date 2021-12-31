@@ -12,7 +12,7 @@ function Resume() {
         </a>
         <h2 className="skills-title">My skills include :</h2>
         <ul className="resume-list">
-          <li> HTML, CSS, Javascrpit</li>
+          <li> HTML, CSS, Javascript</li>
           <li> Bootstrap</li>
           <li> JQuery</li>
           <li> APIs</li>
