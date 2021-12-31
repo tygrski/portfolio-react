@@ -5,11 +5,7 @@ function Nav(props) {
   return (
     <nav>
       <ul>
-        <li>
-          <Link to="/about-me" className="tab-css">
-            About Me
-          </Link>
-        </li>
+        
         <li>
           <Link to="/projects" className="tab-css">
             Portfolio
@@ -23,6 +19,11 @@ function Nav(props) {
         <li>
           <Link to="/contact" className="tab-css">
             Contact
+          </Link>
+        </li>
+        <li>
+          <Link to="/about-me" className="tab-css">
+            About Me
           </Link>
         </li>
       </ul>
