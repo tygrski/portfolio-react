@@ -8,7 +8,7 @@
 
 https://fervent-minsky-b8e00b.netlify.app/
 
-###  User Install and Instructuion
+###  User Install and Instructions
 - clone the repo to your computer by clicking [here](https://github.com/tygrski/portfolio-react)<br/>
 -run the following commands in your terminal<br/>
 npm i<br/>
