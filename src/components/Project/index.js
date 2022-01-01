@@ -3,8 +3,6 @@ import React from "react";
 function Projects() {
   return (
     <div>
-      
-
       <section class="main-content">
         <h2 class="section-project">Projects</h2>
         <div class="my-info-container" id="my-work">
@@ -18,7 +16,9 @@ function Projects() {
               <h3>
                 <span class="workhr">Beer Belly</span>
               </h3>
-              <a href="https://beer-belly.herokuapp.com/" target="_blank">Live link</a>
+              <a href="https://beer-belly.herokuapp.com/" target="_blank">
+                Live link
+              </a>
             </div>
           </a>
 
@@ -29,10 +29,15 @@ function Projects() {
             alt="image of m pick-a-kick webpage"
           >
             <div class="soccer-finder">
-            <h3>
+              <h3>
                 <span class="workhr">Pick-A-Kick</span>
               </h3>
-              <a href="https://tygrski.github.io/soccer-finder/" target="_blank">Live link</a>
+              <a
+                href="https://tygrski.github.io/soccer-finder/"
+                target="_blank"
+              >
+                Live link
+              </a>
             </div>
           </a>
 
@@ -59,7 +64,12 @@ function Projects() {
               <h3>
                 <span class="workhr">Weather Dashboard</span>
               </h3>
-              <a href="https://tygrski.github.io/weatherDashboard/" target="_blank">Live link</a>
+              <a
+                href="https://tygrski.github.io/weatherDashboard/"
+                target="_blank"
+              >
+                Live link
+              </a>
             </div>
           </a>
 
@@ -73,7 +83,12 @@ function Projects() {
               <h3>
                 <span class="workhr">Work Task List</span>
               </h3>
-              <a href="https://tygrski.github.io/Work-Task-List/" target="_blank">Live link</a>
+              <a
+                href="https://tygrski.github.io/Work-Task-List/"
+                target="_blank"
+              >
+                Live link
+              </a>
             </div>
           </a>
           <a
@@ -86,11 +101,14 @@ function Projects() {
               <h3>
                 <span class="workhr">Password Generator</span>
               </h3>
-              <a href="https://tygrski.github.io/Password-Generator/" target="_blank">Live link</a>
+              <a
+                href="https://tygrski.github.io/Password-Generator/"
+                target="_blank"
+              >
+                Live link
+              </a>
             </div>
-          
           </a>
-          
         </div>
       </section>
     </div>

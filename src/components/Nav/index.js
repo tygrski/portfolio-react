@@ -5,7 +5,6 @@ function Nav(props) {
   return (
     <nav>
       <ul>
-        
         <li>
           <Link to="/projects" className="tab-css">
             Portfolio

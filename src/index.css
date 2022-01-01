@@ -1,7 +1,7 @@
 body {
   background-color: rgb(220, 220, 233);
 }
-/* header */
+/* header & nav */
 header {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
@@ -70,7 +70,7 @@ a:hover {
   font-weight: bold;
 }
 
-/* end of header */
+/* end of header & nav */
 
 /* projects */
 .my-info-container {
@@ -110,7 +110,7 @@ a:hover {
 .weather,
 .password,
 .work-task-list {
-  background-image: url("../../portfolio/src/assets/projects/pick-a-kick.jpg");
+  background-image: url("../src/assets/projects/pick-a-kick.jpg");
   width: 250px;
   height: 200px;
   background-repeat: no-repeat;
@@ -130,7 +130,7 @@ a:hover {
 }
 
 .beer {
-  background-image: url("../../portfolio/src/assets/projects/beer-belly.jpg");
+  background-image: url("../src/assets/projects/beer-belly.jpg");
 }
 
 .budget {
@@ -162,7 +162,6 @@ a:hover {
   font-size: 30px;
   font-weight: bold;
 }
-
 
 /* end projects */
 
@@ -197,4 +196,3 @@ footer {
   display: inline-flex;
   justify-content: space-around;
 }
-
