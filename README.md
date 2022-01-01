@@ -4,8 +4,11 @@
 
 ![react-portfolio](https://user-images.githubusercontent.com/77369211/147795617-f7109812-3ae9-4f83-a546-b33d3a0225ab.jpg)
 
+## Live Link
 
-###  User Install and Instructuion
+https://fervent-minsky-b8e00b.netlify.app/
+
+###  User Install and Instructions
 - clone the repo to your computer by clicking [here](https://github.com/tygrski/portfolio-react)<br/>
 -run the following commands in your terminal<br/>
 npm i<br/>
