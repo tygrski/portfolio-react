@@ -23,7 +23,7 @@ function Resume() {
           <li> Mongoose</li>
           <li>Progressive Web Apps</li>
           <li>REACT</li>
-          <li>GraphQL</li>
+          <li>Apollo</li>
           <li>GitHub</li>
           <li>VS Code</li>
         </ul>
