@@ -3,12 +3,12 @@ import React from "react";
 function Resume() {
   return (
     <div className="resume-container">
-      
       <div className="resume-info">
-        <a href="https://drive.google.com/file/d/1j9ApKxir8TDPGIvZW5uz-woL_oLSsuNs/view?usp=sharing"
-        className="resume-link"
+        <a
+          href="https://drive.google.com/file/d/1j9ApKxir8TDPGIvZW5uz-woL_oLSsuNs/view?usp=sharing"
+          className="resume-link"
         >
-          Click Here to Download  my RESUME pdf
+          Click Here to Download my RESUME pdf
         </a>
         <h2 className="skills-title">My skills include :</h2>
         <ul className="resume-list">
@@ -22,7 +22,10 @@ function Resume() {
           <li> Sequelize</li>
           <li> Mongoose</li>
           <li>Progressive Web Apps</li>
-          <li> REACT</li>
+          <li>REACT</li>
+          <li>GraphQL</li>
+          <li>GitHub</li>
+          <li>VS Code</li>
         </ul>
       </div>
     </div>
