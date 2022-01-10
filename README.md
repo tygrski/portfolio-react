@@ -6,7 +6,7 @@
 
 ## Live Link
 
-https://fervent-minsky-b8e00b.netlify.app/
+https://travis-tybor.netlify.app/
 
 ###  User Install and Instructions
 - clone the repo to your computer by clicking [here](https://github.com/tygrski/portfolio-react)<br/>
