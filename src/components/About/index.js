@@ -6,7 +6,7 @@ function About() {
     <section>
       <img
         src={background}
-        style={{ width: "6%", padding: "5px" }}
+        style={{ width: "7%", padding: "5px" }}
         alt="pic of Travis"
       />
       <h2 className="title-info">Full Stack Developer</h2>

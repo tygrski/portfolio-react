@@ -1,5 +1,5 @@
 import React from "react";
-
+import resumeIcon from "../../assets/home-page/resume.png";
 function Resume() {
   return (
     <div className="resume-container">
@@ -8,7 +8,7 @@ function Resume() {
           href="https://drive.google.com/file/d/1j9ApKxir8TDPGIvZW5uz-woL_oLSsuNs/view?usp=sharing"
           className="resume-link"
         >
-          Click Here to Download my RESUME pdf
+          Download my RESUME pdf<img src={resumeIcon} style={{height:"30px"}}></img>
         </a>
         <h2 className="skills-title">My skills include :</h2>
         <ul className="resume-list">
