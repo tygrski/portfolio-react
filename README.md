@@ -2,6 +2,7 @@
 
 ## Table of Contents
 * [Description](#description)
+* [Live-Link](#live-link)
 * [Installation](#installation)
 * [Usage](#usage)
 * [Contributing](#contributing)
@@ -11,8 +12,11 @@
 ## Description
 I created this webpage to List my Skills, Projects, Contact form and a little about myself
 
+## Live-Link
+https://travis-tybor.netlify.app/
+
 ## Installation
-Use [this](https://food-finder-tt.herokuapp.com/) for the live link.</br>
+Use [this](https://travis-tybor.netlify.app/) for the live link.</br>
 -Or clone the repo [here](https://github.com/tygrski/portfolio-react)</br>
 - run `npm i` in your terminal to instll the modules
 - run `npm run start` to create the app
@@ -48,7 +52,7 @@ Feel free to reach out the the contributor above.
 
 ## Live Link
 
-https://travis-tybor.netlify.app/
+
 
 ###  User Install and Instructions
 - clone the repo to your computer by clicking [here](https://github.com/tygrski/portfolio-react)<br/>
