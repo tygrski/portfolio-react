@@ -2,7 +2,7 @@
 
 ## Table of Contents
 * [Description](#description)
-* [Live-Link](#live-link)
+* [Live Link](#live-link)
 * [Installation](#installation)
 * [Usage](#usage)
 * [Contributing](#contributing)
@@ -12,12 +12,11 @@
 ## Description
 I created this webpage to List my Skills, Projects, Contact form and a little about myself
 
-## Live-Link
+## Live Link
 https://travis-tybor.netlify.app/
 
 ## Installation
-Use [this](https://travis-tybor.netlify.app/) for the live link.</br>
--Or clone the repo [here](https://github.com/tygrski/portfolio-react)</br>
+Clone the repo [here](https://github.com/tygrski/portfolio-react)</br>
 - run `npm i` in your terminal to instll the modules
 - run `npm run start` to create the app
 
