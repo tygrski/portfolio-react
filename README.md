@@ -42,7 +42,7 @@ This project is licensed under the MIT License. For the full license see this [l
 
 Contributions were from the following :
 
-[Travis T](https://github.com/tygrski)
+[Travis Tybor](https://github.com/tygrski)
 
 ## Tests
 I did not use tests for this project.
