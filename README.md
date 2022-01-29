@@ -2,6 +2,7 @@
 
 ## Table of Contents
 * [Description](#description)
+* [Created With](#created-with)
 * [Live Link](#live-link)
 * [Installation](#installation)
 * [Usage](#usage)
@@ -12,6 +13,11 @@
 ## Description
 I created this webpage to List my Skills, Projects, Contact form and a little about myself
 
+## Created With
+✔️ Reacts<br/>
+✔️ Materialize/CSS
+
+
 ## Live Link
 https://travis-tybor.netlify.app/
 
@@ -21,7 +27,7 @@ Clone the repo [here](https://github.com/tygrski/portfolio-react)</br>
 - run `npm run start` to create the app
 
 ## Usage
-Click the link above and you will be directed to my poertfolio
+Click the link above and you will be directed to my poertfolio and see a page similar to this
 
 ![react-portfolio](https://user-images.githubusercontent.com/77369211/147795617-f7109812-3ae9-4f83-a546-b33d3a0225ab.jpg)
 
@@ -43,26 +49,6 @@ I did not use tests for this project.
 
 ## Questions?
 Feel free to reach out the the contributor above.
-
-
-## 
-
-
-
-## Live Link
-
-
-
-###  User Install and Instructions
-- clone the repo to your computer by clicking [here](https://github.com/tygrski/portfolio-react)<br/>
--run the following commands in your terminal<br/>
-npm i<br/>
-npm start
-
-### Built with: <br/>
-✔ Reacts JS<br/>
-✔️ HTML<br/>
-✔️ CSS
 
 
 🛠️ © Travis Tybor 2021
