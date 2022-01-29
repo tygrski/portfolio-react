@@ -27,7 +27,7 @@ Clone the repo [here](https://github.com/tygrski/portfolio-react)</br>
 - run `npm run start` to create the app
 
 ## Usage
-Click the link above and you will be directed to my poertfolio and see a page similar to this
+Click the link above and you will be directed to my portfolio and see a page similar to this
 
 ![react-portfolio](https://user-images.githubusercontent.com/77369211/151681523-2fe6e414-a52b-468e-8e81-db019a57f1fd.jpg)
 
