@@ -29,7 +29,9 @@ Clone the repo [here](https://github.com/tygrski/portfolio-react)</br>
 ## Usage
 Click the link above and you will be directed to my poertfolio and see a page similar to this
 
-![react-portfolio](https://user-images.githubusercontent.com/77369211/147795617-f7109812-3ae9-4f83-a546-b33d3a0225ab.jpg)
+![react-portfolio]
+![Screenshot 2022-01-29 175447](https://user-images.githubusercontent.com/77369211/151681523-2fe6e414-a52b-468e-8e81-db019a57f1fd.jpg)
+
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
