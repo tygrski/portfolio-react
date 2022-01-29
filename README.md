@@ -14,7 +14,7 @@
 I created this webpage to List my Skills, Projects, Contact form and a little about myself
 
 ## Created With
-✔️ Reacts<br/>
+✔️ React<br/>
 ✔️ Materialize/CSS
 
 
