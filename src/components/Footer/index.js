@@ -15,7 +15,7 @@ function Footer() {
             className="linkedin-icon"
             src={linkedIn}
             alt="linkedIn icon"
-            style={{ height: "30px" }}
+            style={{ height: "50px" }}
           ></img>
         </a>
       </div>
@@ -25,7 +25,7 @@ function Footer() {
             className="github-icon"
             src={githubIcon}
             alt="linkedIn icon"
-            style={{ height: "30px" }}
+            style={{ height: "50px" }}
           ></img>
         </a>
       </div>

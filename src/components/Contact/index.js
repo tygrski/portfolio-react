@@ -2,6 +2,9 @@ import React, { useState } from 'react';
 
 import { validateEmail } from '../../utils/helpers';
 
+import linkedIn from "../../assets/home-page/linkedIn.png";
+import githubIcon from "../../assets/home-page/github.png";
+
 function ContactForm() {
   const [formState, setFormState] = useState({ name: '', email: '', message: '' });
 
@@ -59,6 +62,29 @@ function ContactForm() {
         )}
         <button data-testid="button" type="submit">Submit</button>
       </form>
+      <div>
+      <a
+          className="linkedin"
+          href="https://www.linkedin.com/in/travis-tybor-70160620b/"
+          target="_blank"
+        >
+          <img className="linkedin-icon"
+            src={linkedIn}
+            alt="linkedIn icon"
+            style={{ height: "50px" }}
+          ></img>
+        </a>
+      </div>
+      <div>
+      <a className="github" 
+        href="https://github.com/tygrski" target="_blank">
+          <img className="github-icon"
+            src={githubIcon}
+            alt="linkedIn icon"
+            style={{ height: "50px" }}
+          ></img>
+        </a>
+      </div>
     </section>
   );
 }

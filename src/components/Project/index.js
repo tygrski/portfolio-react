@@ -16,11 +16,28 @@ function Projects() {
               <h3>
                 <span class="workhr">Beer Belly</span>
               </h3>
-              <a href="https://beer-belly.herokuapp.com/" target="_blank">
+              <a className="live-link" href="https://beer-belly.herokuapp.com/" target="_blank">
                 Live link
               </a>
             </div>
           </a>
+
+          <a
+            className="portfolio-link"
+            href="https://github.com/ggamb/Beer-belly-developers-project-2/"
+            target="_blank"
+            alt="run-buddy waebpage image"
+          >
+            <div class="beer">
+              <h3>
+                <span class="workhr">Beer Belly</span>
+              </h3>
+              <a className="live-link" href="https://beer-belly.herokuapp.com/" target="_blank">
+                Live link
+              </a>
+            </div>
+          </a>
+
 
           <a
             className="portfolio-link"
@@ -32,7 +49,7 @@ function Projects() {
               <h3>
                 <span class="workhr">Pick-A-Kick</span>
               </h3>
-              <a
+              <a className="live-link"
                 href="https://tygrski.github.io/soccer-finder/"
                 target="_blank"
               >
@@ -54,7 +71,7 @@ function Projects() {
             </div>
           </a>
 
-          <a
+          <a 
             className="portfolio-link"
             href="https://github.com/tygrski/weatherDashboard/"
             target="_blank"
@@ -64,7 +81,7 @@ function Projects() {
               <h3>
                 <span class="workhr">Weather Dashboard</span>
               </h3>
-              <a
+              <a className="live-link"
                 href="https://tygrski.github.io/weatherDashboard/"
                 target="_blank"
               >
@@ -83,7 +100,7 @@ function Projects() {
               <h3>
                 <span class="workhr">Work Task List</span>
               </h3>
-              <a
+              <a className="live-link"
                 href="https://tygrski.github.io/Work-Task-List/"
                 target="_blank"
               >
@@ -101,7 +118,7 @@ function Projects() {
               <h3>
                 <span class="workhr">Password Generator</span>
               </h3>
-              <a
+              <a className="live-link"
                 href="https://tygrski.github.io/Password-Generator/"
                 target="_blank"
               >
