@@ -8,15 +8,15 @@ function Projects() {
         <div class="my-info-container" id="my-work">
           <a
             className="portfolio-link"
-            href="https://github.com/ggamb/Beer-belly-developers-project-2/"
+            href="https://github.com/tygrski/team-cuisine-project-3"
             target="_blank"
-            alt="run-buddy waebpage image"
+            alt="image of Get Fed Webpage"
           >
-            <div class="beer">
+            <div class="get-fed">
               <h3>
-                <span class="workhr">Beer Belly</span>
+                <span class="workhr">Get Fed</span>
               </h3>
-              <a className="live-link" href="https://beer-belly.herokuapp.com/" target="_blank">
+              <a className="live-link" href="https://food-finder-tt.herokuapp.com/" target="_blank">
                 Live link
               </a>
             </div>
@@ -26,7 +26,7 @@ function Projects() {
             className="portfolio-link"
             href="https://github.com/ggamb/Beer-belly-developers-project-2/"
             target="_blank"
-            alt="run-buddy waebpage image"
+            alt="image of Beer Belly Webpage"
           >
             <div class="beer">
               <h3>

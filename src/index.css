@@ -108,7 +108,7 @@ h1 {
 .section-project {
   font-size: 40px;
 }
-
+.get-fed,
 .soccer-finder,
 .beer,
 .budget,
@@ -124,7 +124,7 @@ h1 {
   border-radius: 10%;
   opacity: 0.9;
 }
-
+.get-fed
 .soccer-finder:hover,
 .beer:hover,
 .budget:hover,
@@ -132,6 +132,9 @@ h1 {
 .password:hover,
 .work-task-list:hover {
   opacity: 1;
+}
+.get-fed{
+  background-image: url("../src/assets/projects/get-fed.jpg");
 }
 
 .beer {
