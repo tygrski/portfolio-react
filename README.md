@@ -1,23 +1,55 @@
-# Travis Tybor's Portfolio
+# Travis Tybor Portfolio
 
-## I created this webpage to List my Skills, Projects, Contact form and a little about myself
+## Table of Contents
+* [Description](#description)
+* [Created With](#created-with)
+* [Live Link](#live-link)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
 
-![react-portfolio](https://user-images.githubusercontent.com/77369211/147795617-f7109812-3ae9-4f83-a546-b33d3a0225ab.jpg)
+## Description
+I created this webpage to List my Skills, Projects, Contact form and a little about myself
+
+## Created With
+✔️ React<br/>
+✔️ Materialize/CSS
+
 
 ## Live Link
-
 https://travis-tybor.netlify.app/
 
-###  User Install and Instructions
-- clone the repo to your computer by clicking [here](https://github.com/tygrski/portfolio-react)<br/>
--run the following commands in your terminal<br/>
-npm i<br/>
-npm start
+## Installation
+Clone the repo [here](https://github.com/tygrski/portfolio-react)</br>
+- run `npm i` in your terminal to instll the modules
+- run `npm run start` to create the app
 
-### Built with: <br/>
-✔ Reacts JS<br/>
-✔️ HTML<br/>
-✔️ CSS
+## Usage
+Click the link above and you will be directed to my portfolio and see a page similar to this
+
+![react-portfolio](https://user-images.githubusercontent.com/77369211/151681523-2fe6e414-a52b-468e-8e81-db019a57f1fd.jpg)
+
+
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
+
+Copyright 2021
+
+This project is licensed under the MIT License. For the full license see this [link](https://opensource.org/licenses/MIT)
+
+## Contributing
+
+Contributions were from the following :
+
+[Travis Tybor](https://github.com/tygrski)
+
+## Tests
+I did not use tests for this project.
+
+## Questions?
+Feel free to reach out the the contributor above.
 
 
 🛠️ © Travis Tybor 2021
