@@ -5,7 +5,7 @@ function Resume() {
     <div className="resume-container">
       <div className="resume-info">
         <a
-          href="https://drive.google.com/file/d/1j9ApKxir8TDPGIvZW5uz-woL_oLSsuNs/view?usp=sharing"
+          href="https://docs.google.com/document/d/13bjYBfPRz9WPQH4W2iV4wcHmQeZ9ak33bUZM3Q1DzO4/edit?usp=sharing"
           className="resume-link"
         >
           Download my RESUME pdf<img src={resumeIcon} style={{height:"30px"}}></img>
@@ -24,6 +24,7 @@ function Resume() {
           <li>Progressive Web Apps</li>
           <li>REACT</li>
           <li>Apollo</li>
+          <li>Graph Ql</li>
           <li>GitHub</li>
           <li>VS Code</li>
         </ul>
